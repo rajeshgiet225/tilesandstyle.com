@@ -1,0 +1,266 @@
+<manifest alg="2" build="2018.1.1.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.basudevelopmentelectronics.com" resolutions="1x" timestamp="1635188073721">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="contact.css" crc="322346976" ref="contact"/>
+    <file name="gallery.css" crc="3995739909" ref="gallery"/>
+    <file name="index.css" crc="248462160" ref="index"/>
+    <file name="services.css" crc="3892862194" ref="services"/>
+    <file name="products.css" crc="379181973" ref="products"/>
+  </folder>
+  <folder name="assets">
+    <file name="latest-kitchen-wall-tiles-designs.jpg.jpg" crc="391282378" seo="true" mt="1630336151000"/>
+    <file name="nc-all-wall-tiles-designs.pdf" crc="4103637805" seo="true" mt="1631026508000"/>
+    <file name="multiplica_wall_tiles_catalogue.pdf" crc="4159122988" seo="true" mt="1631027357000"/>
+    <file name="hd-p-elevation_tiles_catalogue.pdf" crc="4003051429" seo="true" mt="1631027495000"/>
+    <file name="lavish-polished-highgloss.pdf" crc="367945828" seo="true" mt="1631027795000"/>
+    <file name="lavish-wooden-tiles-catalogue.pdf" crc="4253261618" seo="true" mt="1631027862000"/>
+    <file name="lavish-morrocon.pdf" crc="4263295229" seo="true" mt="1631028262000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:services:products:gallery:contact"/>
+    <file name="museutils.js" crc="3939489907" ref="index:services:products:gallery:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:services:products:gallery:contact"/>
+    <file name="museconfig.js" crc="3936894949" ref="index:services:products:gallery:contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="85124417" ref="index:services:products:gallery:contact"/>
+    <file name="jquery.watch.js" crc="522499760" ref="index:services:products:gallery:contact"/>
+    <file name="webpro.js" crc="3856315280" ref="index"/>
+    <file name="musewpslideshow.js" crc="244150766" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3877667098" ref="index"/>
+    <file name="touchswipe.js" crc="3888935200" ref="index"/>
+    <file name="jquery.musemenu.js" crc="4139692962" ref="index:services:products:gallery:contact"/>
+    <file name="form_check.php" crc="4108222811" ref="index"/>
+    <file name="form_throttle.php" crc="503802655" ref="index"/>
+    <file name="form_process.php" crc="260214869" ref="index"/>
+    <file name="form-u1085.php" crc="4149463175" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:services:products:gallery:contact"/>
+    <file name="require.js" crc="4177726516" ref="index:services:products:gallery:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="snap_screen_20210829213734.jpg" crc="3822326602" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829213639.jpg" crc="482452722" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829213715.jpg" crc="341159216" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829212851.jpg" crc="4136930946" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="snap_screen_20210829212822.jpg" crc="4070174314" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="snap_screen_20210829212750.jpg" crc="4140722361" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="snap_screen_20210829212723.jpg" crc="3967244894" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="1a68e277.jpg" crc="519368492" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="bedroom_cement_grey_hl_13_second_option.jpg" crc="4113642151" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="mcgrath-2-guest-bathroom-tile.jpg" crc="4089122700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sde.jpg" crc="4141924286" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_lace_4.jpg" crc="4149842683" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ted-baker_plymouth_hero_img_image_caption_hero.jpg" crc="4214774066" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="pikpngcom_woman-smiling-png_4850700.png" crc="237448540" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="tiles.jpg" crc="132374102" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="u3715-4.png" crc="231349173" ref="index"/>
+    <file name="u142-4.png" crc="3869980098" ref="index"/>
+    <file name="ceramic-sanitary-ware-market.jpg" crc="4029579629" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slider_lace_4-u129-fr.jpg" crc="162768137" ref="index"/>
+    <file name="u170-4.png" crc="4149241262" ref="index"/>
+    <file name="snap_screen_20210829230228.jpg" crc="3857700708" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829230141.jpg" crc="206651929" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829230033.jpg" crc="3855742382" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="snap_screen_20210829225906.jpg" crc="340947659" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="rplexpng.png" crc="3904316786" ref="index:services:products:gallery:contact">
+      <caption webpage="index" alt=""/>
+      <caption webpage="gallery" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="services" alt=""/>
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="u1870-4.png" crc="231349173" ref="services"/>
+    <file name="71qplzcyp5l_ac_sx466_.jpg" crc="265108168" ref="services:gallery">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210830214330.jpg" crc="208963442" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="mk-2x2-hl13_1.jpg" crc="39985142" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="108261648-texture-of-granite-background-.jpg" crc="4182064403" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="main-qimg-f25724aa2bc46415e70c8691f21e3163.jpg" crc="4213592150" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="green-marble-texture-background-natural-260nw-1561255690.jpg" crc="238619513" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="3d-epoxy-flooring.jpg" crc="114763445" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="1599473734-3d-epoxy-flooring.jpg" crc="4063695113" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="product-500x500.jpg" crc="3879543445" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="1502401808479parquet_natural_genius_medoc1_01.jpg" crc="4039118988" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="wooden-flooring-2.jpg" crc="4239420102" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="maxresdefault (2).jpg" crc="87862960" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="depositphotos_206009684-stock-photo-work-laying-flooring-worker-installing.jpg" crc="3801095366" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="vinyl-pvc-planks-flooring-500x500.jpg" crc="166861124" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="gettyimages-1161776671-scaled.jpg" crc="299633326" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907202609.jpg" crc="3761117576" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907203248.jpg" crc="4067923498" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907204116.jpg" crc="46025854" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907204556.jpg" crc="252880910" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907204704.jpg" crc="3830042540" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="snap_screen_20210907205115.jpg" crc="4099815462" ref="services">
+      <caption webpage="services" alt=""/>
+    </file>
+    <file name="u2293-4.png" crc="231349173" ref="products"/>
+    <file name="gf-u2483-fr.jpg" crc="4129901231" ref="products"/>
+    <file name="gff.jpg" crc="4267484024" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="gfrt.jpg" crc="443085235" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="1004.jpg" crc="268638881" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="5e0da7770ac4cc000142b64f.jpg" crc="3979922941" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="prod-image-500x500.jpg" crc="4175438513" ref="products">
+      <caption webpage="products" alt=""/>
+    </file>
+    <file name="u1515-4.png" crc="231349173" ref="gallery"/>
+    <file name="7xrvovmtb6pyqdhgwmfbid-768-80.jpg" crc="125562773" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="12x18-inch-kitchen-wall-tiles-1594186063-5512584.jpg" crc="109984531" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="82f537fa0d55d75d8f84749802026397.jpg" crc="4239126217" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="95d88f0ad8dc4dd4b6c728be1ad996d7.jpg" crc="183199188" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="22576e43-ad0a-4551-b1c6-5b0bfb3d62ec-flute_tt_kitchentiles.jpg" crc="3921849975" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="1400952887419.jpg" crc="3915093317" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="cover-16-1.jpg" crc="324242128" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maolica_mix_wall_buildout_no-shelf_kj_img_image_caption_hero.jpg" crc="3963280238" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="maxresdefault (1).jpg" crc="4007247464" ref="gallery">
+      <caption webpage="gallery" alt=""/>
+    </file>
+    <file name="u1211-4.png" crc="231349173" ref="contact"/>
+    <file name="tiles-u1470-fr.jpg" crc="359267321" ref="contact"/>
+    <file name="762-7625964_talking-on-cell-phone-clip-art-symbol-for.png" crc="4083725778" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-08-30 at 60306 pm (1).jpg" crc="342630693" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="whatsapp image 2021-08-30 at 60306 pm.jpg" crc="180776329" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4143402105" seo="true" mt="1635187117096" redirect="true"/>
+  <file name="services.html" crc="411955622" seo="true" mt="1635187182136" redirect="true"/>
+  <file name="products.html" crc="3948751943" seo="true" mt="1635187217993" redirect="true"/>
+  <file name="gallery.html" crc="385084105" seo="true" mt="1635187239788" redirect="true"/>
+  <file name="contact.html" crc="3868022395" seo="true" mt="1635188032488" redirect="true"/>
+</manifest>
